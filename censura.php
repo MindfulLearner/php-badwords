@@ -1,4 +1,4 @@
 <?php
-echo "swag Benvenuto nella pagina Censura!";
+echo "swag swag";
 ?>
 
